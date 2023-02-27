@@ -1,3 +1,6 @@
 [submodule "OSWD"]
 	path = OSWD
 	url = https://github.com/kavinpradheep/OSWD.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
