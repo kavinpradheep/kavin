@@ -1,0 +1,3 @@
+[submodule "OSWD"]
+	path = OSWD
+	url = https://github.com/kavinpradheep/OSWD.git
